@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Steven1310/Steven1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +15,11 @@ Here are some ideas to get you started:
 
 <!-- MAIN BANNER IMAGE -->
 
-![bannerImage](<img src="../Steven1310/assets/images/github-banner.gif" alt="lassiecoder" />)
+![bannerImage](./assets/images/github-banner.gif)
 
-<!--  PROFILE VISIT COUNTER  --><p align="top"> <img src="https://komarev.com/ghpvc/?username=Steven1310&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
+<!--  PROFILE VISIT COUNTER  --><p align="top"> <img src="https://komarev.com/ghpvc/?username=Steven1310&label=Profile%20views&color=36363b&style=flat" alt="Steven1310" /></p>
 <br>
+
 ### Hi there,I'm Steven Pereira 👋
 
 About Me🧑🏼‍💻
@@ -58,6 +57,3 @@ AWS:Amplify, EC2, ECR, EKS, Lambda, API Gateway, VPC, EBS, KVS, Cognito, Cloudwa
 
 Stats📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven1310&layout=compact)](https://github.com/Steven1310)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven1310f&layout=compact)](https://github.com/Steven1310)
