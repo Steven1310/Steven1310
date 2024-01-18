@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 
 ### Hi there,I'm Steven Pereira 👋
 
+<p>
 About Me🧑🏼‍💻
 🎓 I am currently pursuing my Masters in Commputer Science and Information Technology
-📫 Reach me at connect@steven-pereira.co
-👨‍💻 All of my projects are available here
-📄 Know about my experiences here
+📫 Reach me at <a href="mailto:connect@steven-pereira.co" target="_blank">connect@steven-pereira.co</a>
+👨‍💻 All of my projects are available <a href="">here</a>
+📄 Know about my experiences <a href="">here</a>
 Connect with me:
 <a href="https://www.linkedin.com/in/steven-pereira-33a933169/">
-<img src="images/linkedin.png" alt="alternate text"
+<img src="./assets/images/linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a>
+</p>
 
 <br>
 
@@ -39,7 +41,7 @@ width="30px" height="height">
 
 # Languages, libraries, and frameworks:
 
-Java, C#, Python, Django,ASP.NET, ASP.Net Core, Blazor, MVC, Entity Framework, Web API, TypeScript, Angular, React, Next.js, Express, JQuery, JavaScript, NodeJS, Bootstrap 5, AJAX, Redux, CSS, HTML5.
+Java, C#, Python, Django, ASP.NET, ASP.Net Core, Blazor, MVC, Entity Framework, Web API, TypeScript, Angular, React, Next.js, Express, JQuery, JavaScript, NodeJS, Bootstrap 5, AJAX, Redux, CSS, HTML5.
 
 # Databases and Data formats:
 
