@@ -63,4 +63,4 @@ Stats📈
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Steven1310&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven1310&custom_title=Languages%20used:&layout=compact&theme=radical&hide_border=true&hide_title=true" /> </p>
 
-<p align="top"><a href="www.steven-pereira.co" target="_blank"><img src="https://githubanalytics-48a3f.web.app/?username=Steven1310&theme=theme-dark" alt="Steven1310" /></a></p>
+[![Live Stats]](https://githubanalytics-48a3f.web.app/?username=Steven1310&theme=theme-dark)
