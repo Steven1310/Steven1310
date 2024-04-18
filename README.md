@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- MAIN BANNER IMAGE -->
 
-![bannerImage](./assets/images/github-banner.gif)
+<a href="www.steven-pereira.co" target="_blank">![bannerImage](./assets/images/github-banner.gif)</a>
 
 <!--  PROFILE VISIT COUNTER  --><p align="top"><a href="www.steven-pereira.co" target="_blank"><img src="https://komarev.com/ghpvc/?username=Steven1310&label=Profile%20views&color=36363b&style=flat" alt="Steven1310" /></a></p>
 <br>
