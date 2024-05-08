@@ -76,6 +76,7 @@ AWS:Amplify, EC2, ECR, EKS, Lambda, API Gateway, VPC, EBS, KVS, Cognito, Cloudwa
 <img height=150em src="https://github-readme-stats.vercel.app/api?username=Steven1310&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 <img height=150em style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven1310&custom_title=Languages%20used:&layout=compact&theme=radical&hide_border=true&hide_title=true"  /> 
 <img  height=150em src="http://github-readme-streak-stats.herokuapp.com/?user=Steven1310&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven1310&theme=radical" alt="Steven's GitHub Contribution"/>
 </p>
 </a>
 
