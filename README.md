@@ -1,3 +1,22 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./css/github-markdown.css">
+<style>
+    .markdown-body {
+        color:white;
+        background:#000;
+    	padding: 10px;
+    	width: 100%;
+    	height: 100%;
+    	border-radius: 10px;
+    }
+    .stats {
+        display:flex;
+        justify-content: space-around;
+        height: 150px;
+        align-items: stretch;
+    }
+</style>
+<article class="markdown-body">
 <!-- MAIN BANNER IMAGE -->
 
 ![bannerImage](./assets/images/github-banner.gif)
@@ -78,3 +97,6 @@ AWS:Amplify, EC2, ECR, EKS, Lambda, API Gateway, VPC, EBS, KVS, Cognito, Cloudwa
 </a>
 
 [![Live Stats]](https://githubanalytics-48a3f.web.app/?username=Steven1310&theme=theme-dark)
+
+</article>
+</meta>
