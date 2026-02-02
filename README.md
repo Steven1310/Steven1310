@@ -2,7 +2,7 @@
 <div class="markdown-body">
 <!-- MAIN BANNER IMAGE -->
 
-![bannerImage](./assets/images/github-banner.gif)
+![Project Banner](https://api.apigeon.space/api/MISC/LogVisit?pageVisited=github_main)
 
 <!--  PROFILE VISIT COUNTER  --><p align="top"><a href="www.steven-pereira.co" target="_blank"><img src="https://komarev.com/ghpvc/?username=Steven1310&label=Profile%20views&color=36363b&style=flat" alt="Steven1310" /></a></p>
 <br>
@@ -14,7 +14,7 @@
 <p>
 <ul type="none">
 <li>🎓 I am currently pursuing my Masters in Commputer Science and Information Technology</li>
-<li>📫 Reach me at <a href="mailto:connect@steven-pereira.co" target="_blank">connect@steven-pereira.co</a></li>
+<li>📫 Reach me at <a href="mailto:connect@stevenpereira.ca" target="_blank">connect@stevenpereira.ca</a></li>
 <li>👨‍💻 All of my projects are available <a href="">here</a></li>
 <li>📄 Know about my experiences <a href="">here</a></li>
 <li>Connect with me:</li>
@@ -76,7 +76,7 @@ AWS:Amplify, EC2, ECR, EKS, Lambda, API Gateway, VPC, EBS, KVS, Cognito, Cloudwa
 <img height=150em src="https://github-readme-stats.vercel.app/api?username=Steven1310&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 <img height=150em style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven1310&custom_title=Languages%20used:&layout=compact&theme=radical&hide_border=true&hide_title=true"  /> 
 <img  height=150em src="http://github-readme-streak-stats.herokuapp.com/?user=Steven1310&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven1310&theme=radical" alt="Steven's GitHub Contribution"/>
+<img height=150em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven1310&theme=radical" alt="Steven's GitHub Contribution"/>
 </p>
 </a>
 
