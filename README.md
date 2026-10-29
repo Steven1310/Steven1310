@@ -2,7 +2,7 @@
 <div class="markdown-body">
 <!-- MAIN BANNER IMAGE -->
 
-![Project Banner](https://api.apigeon.space/api/MISC/LogVisit?pageVisited=github_main)
+![Project Banner](https://api.dragonartstudios.ca/api/MISC/LogVisit?pageVisited=github_main)
 
 <!--  PROFILE VISIT COUNTER  --><p align="top"><a href="www.steven-pereira.co" target="_blank"><img src="https://komarev.com/ghpvc/?username=Steven1310&label=Profile%20views&color=36363b&style=flat" alt="Steven1310" /></a></p>
 <br>
